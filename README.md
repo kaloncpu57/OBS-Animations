@@ -18,18 +18,5 @@ Once you have it downloaded, add a Browser Source in OBS.
 
 # Previews
 These previews all have something in the background just so you can see the animations on top of an example stream screen. Don't worry about any of the backgrounds, they won't be included.
-
-### Balloons
-https://github.com/kaloncpu57/OBS-Animations/blob/main/previews/balloons.mp4?raw=true
-
-### Cyberspace
-https://github.com/kaloncpu57/OBS-Animations/blob/main/previews/cyberspace.mp4?raw=true
-
-### DVD Logo
-https://github.com/kaloncpu57/OBS-Animations/blob/main/previews/dvd-logo.mp4?raw=true
-
-### Matrix
-https://github.com/kaloncpu57/OBS-Animations/blob/main/previews/matrix.mp4?raw=true
-
-### Solitaire
-https://github.com/kaloncpu57/OBS-Animations/blob/main/previews/solitaire.mp4?raw=true
+If you want to view them, the preview videos are all in this Google Drive folder (where you can technically also download any of these animations).
+https://drive.google.com/drive/folders/1nsSTxOW7AmOUI9dc0eXTKOhCFqeAB3ur?usp=sharing
